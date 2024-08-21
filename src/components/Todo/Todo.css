@@ -1,0 +1,8 @@
+input:checked+label>h1 {
+    text-decoration: line-through;
+}
+
+label h1 {
+    display: inline-block;
+    margin-left: 20px;
+}
